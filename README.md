@@ -6,14 +6,28 @@ This repository contains code and models for **automatic road extraction** from 
 
 The goal of this project is to perform **binary semantic segmentation** of roads from high-resolution satellite images. 
 
-🖼️ Sample Predictions
-Below are some example results of road extraction:
+## 🧪 Experimental Results
 
-<p align="center"> <img src="fig4.png" alt="Sample Prediction" width="600"/> </p>
-Each result shows:
+### 🔹 Model Comparison – Quantitative
 
-Left: Original satellite image
+<p align="center">
+  <img src="results/comparison_table.png" alt="Comparison Table" width="700"/>
+</p>
 
-Middle: Ground truth road mask
+### 🔹 Model Comparison – Qualitative
 
-Right: Model-predicted road mask
+<p align="center">
+  <img src="results/comparison_images.png" alt="Comparison Images" width="700"/>
+</p>
+
+### 🔹 Ablation Study – Quantitative
+
+<p align="center">
+  <img src="results/ablation_table.png" alt="Ablation Table" width="700"/>
+</p>
+
+### 🔹 Ablation Study – Qualitative
+
+<p align="center">
+  <img src="results/ablation_images.png" alt="Ablation Images" width="700"/>
+</p>
