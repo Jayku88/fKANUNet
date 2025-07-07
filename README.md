@@ -17,7 +17,7 @@ The goal of this project is to perform **binary semantic segmentation** of roads
 ### 🔹 Model Comparison – Qualitative
 
 <p align="center">
-  <img src="results/Comparison_Qualitative.png" alt="Comparison Images" width="700"/>
+  <img src="Comparison_Qualitative.png" alt="Comparison Images" width="700"/>
 </p>
 
 ### 🔹 Ablation Study – Quantitative
