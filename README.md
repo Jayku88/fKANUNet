@@ -1,4 +1,4 @@
-# Road Extraction from Satellite Imagery using Deep Learning
+# fKAN-UNet: Lightweight Road Segmentation with Fractional Spectral Modeling and Directional Convolutions
 
 This repository contains code and models for **automatic road extraction** from satellite imagery using deep learning technique.
 
