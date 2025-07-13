@@ -35,6 +35,6 @@ The goal of this project is to perform **binary semantic segmentation** of roads
 ### Hyperparameter Study - Quantitative
 
 <p align="center">
-  <img src="Ablation_Qualitative.png" alt="Ablation Images" width="700"/>
+  <img src="rfexperiments.PNG" alt="rfquantitative" width="700"/>
 </p>
 
