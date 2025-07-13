@@ -38,3 +38,10 @@ The goal of this project is to perform **binary semantic segmentation** of roads
   <img src="rfexperiments.PNG" alt="rfquantitative" width="700"/>
 </p>
 
+<p align="center">
+  <img src="variousloss.PNG" alt="vloss" width="700"/>
+</p>
+
+<p align="center">
+  <img src="weightingloss.PNG" alt="wloss" width="700"/>
+</p>
