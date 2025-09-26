@@ -40,3 +40,13 @@ The goal of this project is to perform **binary semantic segmentation** of roads
 <p align="center">
   <img src="weightingloss.PNG" alt="wloss" width="700"/>
 </p>
+
+## Installation Guide (Using Conda)
+
+```bash
+
+# 1. Create the Conda environment
+conda env create -f fKANUNetenvironment.yml
+conda activate tfclone
+
+# 2. Run fKAN-UNet.ipynb file using environment tfclone
